@@ -5,3 +5,12 @@
   --light-grayish-magenta: hsl(300, 24%, 96%);
   --white: hsl(0, 0%, 100%);
 }
+
+footer {
+  font-size: 11px;
+  text-align: center;
+}
+
+footer a {
+  color: hsl(228, 45%, 44%);
+}
