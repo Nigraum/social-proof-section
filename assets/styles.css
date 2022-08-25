@@ -43,7 +43,10 @@ body {
   color: var(--very-dark-magenta);
 }
 
-
+.info p {
+  width: 400px;
+  color: var(--dark-grayish-magenta);
+}
 
 footer {
   font-size: 11px;
