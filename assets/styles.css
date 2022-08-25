@@ -28,7 +28,11 @@ body {
   margin: 100px auto auto 50px;
 }
 
-
+.reviews {
+  position: absolute;
+  left: 120px;
+  top: 400px;
+}
 
 footer {
   font-size: 11px;
