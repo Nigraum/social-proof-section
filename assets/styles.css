@@ -93,6 +93,17 @@ body {
   left: 20px;
 }
 
+.r3 {
+  background-color: var(--light-grayish-magenta);
+  padding: 60px;
+  width: 300px;
+  display: inline-block;
+  border-radius: 10px;
+  position: relative;
+  top: 40px;
+  left: 40px;
+}
+
 footer {
   font-size: 11px;
   text-align: center;
