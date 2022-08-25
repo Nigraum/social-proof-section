@@ -48,6 +48,16 @@ body {
   color: var(--dark-grayish-magenta);
 }
 
+.rate-infos {
+  background-color: var(--light-grayish-magenta);
+  width: 350px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+
 footer {
   font-size: 11px;
   text-align: center;
