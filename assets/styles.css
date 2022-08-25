@@ -60,7 +60,16 @@ body {
   background-color: var(--light-grayish-magenta);
   width: 350px;
   margin-bottom: 10px;
+  padding: 10px;
   margin-left: 40px;
+  border-radius: 10px;
+}
+
+.rate-infos3 {
+  background-color: var(--light-grayish-magenta);
+  width: 350px;
+  padding: 10px;
+  margin-left: 80px;
   border-radius: 10px;
 }
 
