@@ -104,6 +104,14 @@ body {
   left: 40px;
 }
 
+.p-rate {
+  display: inline-block;
+  position: absolute;
+  margin-top: 0;
+  margin-left: 30px;
+  color: var(--very-dark-magenta);
+}
+
 footer {
   font-size: 11px;
   text-align: center;
