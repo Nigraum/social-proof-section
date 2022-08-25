@@ -20,6 +20,16 @@ body {
   margin-top: 50px;
 }
 
+.rate-infos {
+  width: 500px;
+  display: inline-block;
+  position: absolute;
+  left: 850px;
+  margin: 100px auto auto 50px;
+}
+
+
+
 footer {
   font-size: 11px;
   text-align: center;
