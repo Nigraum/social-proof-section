@@ -80,6 +80,15 @@ body {
   display: inline-block;
   border-radius: 10px;
   position: relative;
+}
+
+.r2 {
+  background-color: var(--light-grayish-magenta);
+  padding: 60px;
+  width: 300px;
+  display: inline-block;
+  border-radius: 10px;
+  position: relative;
   top: 20px;
   left: 20px;
 }
