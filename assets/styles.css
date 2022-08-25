@@ -12,6 +12,14 @@ body {
   background-position: top left, bottom right;
 }
 
+.info {
+  width: 501px;
+  display: inline-block;
+  position: absolute;
+  left: 120px;
+  margin-top: 50px;
+}
+
 footer {
   font-size: 11px;
   text-align: center;
