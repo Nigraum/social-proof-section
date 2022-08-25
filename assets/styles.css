@@ -6,6 +6,12 @@
   --white: hsl(0, 0%, 100%);
 }
 
+body {
+  background-image: url(./images/bg-pattern-top-desktop.svg), url(./images/bg-pattern-bottom-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
+}
+
 footer {
   font-size: 11px;
   text-align: center;
