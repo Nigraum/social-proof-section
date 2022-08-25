@@ -35,6 +35,14 @@ body {
   top: 400px;
 }
 
+.info h1 {
+  font-weight: 700;
+  font-size: 15px;
+  width: 400px;
+  margin-bottom: 0;
+  color: var(--very-dark-magenta);
+}
+
 
 
 footer {
