@@ -112,6 +112,16 @@ body {
   color: var(--very-dark-magenta);
 }
 
+.name {
+  color: var(--white);
+  display: inline-block;
+  position: relative;
+  bottom: 30px;
+  left: 25px;
+}
+
+
+
 footer {
   font-size: 11px;
   text-align: center;
