@@ -56,6 +56,14 @@ body {
   border-radius: 10px;
 }
 
+.rate-infos2 {
+  background-color: var(--light-grayish-magenta);
+  width: 350px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  border-radius: 10px;
+}
+
 
 
 footer {
