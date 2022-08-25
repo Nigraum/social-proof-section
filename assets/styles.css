@@ -73,7 +73,16 @@ body {
   border-radius: 10px;
 }
 
-
+.r1 {
+  background-color: var(--light-grayish-magenta);
+  padding: 60px;
+  width: 300px;
+  display: inline-block;
+  border-radius: 10px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
 
 footer {
   font-size: 11px;
