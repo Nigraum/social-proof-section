@@ -120,7 +120,13 @@ body {
   left: 25px;
 }
 
-
+.buyer {
+  color: var(--light-grayish-magenta);
+  display: inline-block;
+  position: relative;
+  bottom: 10px;
+  right: 65px;
+}
 
 footer {
   font-size: 11px;
