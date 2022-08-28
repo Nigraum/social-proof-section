@@ -132,7 +132,10 @@ body {
   color: var(--white);
 }
 
-
+.buyer-img {
+  border-radius: 50px;
+  width: 50px;
+}
 
 footer {
   font-size: 11px;
