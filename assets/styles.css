@@ -128,6 +128,12 @@ body {
   right: 65px;
 }
 
+.text-review {
+  color: var(--white);
+}
+
+
+
 footer {
   font-size: 11px;
   text-align: center;
